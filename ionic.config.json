@@ -1,0 +1,7 @@
+{
+  "name": "registrogp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
