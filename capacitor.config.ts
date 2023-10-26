@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'ionic.registrogp',
+  appId: 'com.registrogp',
   appName: 'registrogp',
   webDir: 'dist',
   server: {

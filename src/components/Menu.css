@@ -26,16 +26,16 @@ ion-menu.md ion-list#inbox-list {
 }
 
 ion-menu.md ion-list#inbox-list ion-list-header {
-  font-size: 22px;
-  font-weight: 600;
-  min-height: 20px;
+  font-size: 10px; /*22*/
+  font-weight: 300;  /*600*/
+  min-height: 10px;  /*20*/
 }
 
 ion-menu.md ion-list#labels-list ion-list-header {
-  font-size: 16px;
-  margin-bottom: 18px;
+  font-size: 10px;  /*16*/
+  margin-bottom: 10px;  /*18*/
   color: #757575;
-  min-height: 26px;
+  min-height: 12px;  /*26*/
 }
 
 ion-menu.md ion-item {
@@ -80,7 +80,7 @@ ion-menu.ios ion-item {
 }
 
 ion-menu.ios ion-item ion-icon {
-  font-size: 24px;
+  font-size: 10px;  /*24*/
   color: #73849a;
 }
 
@@ -104,7 +104,7 @@ ion-menu.ios ion-note {
 
 ion-note {
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;  /*16*/
   color: var(--ion-color-medium-shade);
 }
 

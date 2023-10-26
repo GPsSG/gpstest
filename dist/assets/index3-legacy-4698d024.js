@@ -1,4 +1,4 @@
-System.register(["./index-legacy-3c18234a.js"],(function(e,t){"use strict";var r;return{setters:[t=>{r=t.G,e("GESTURE_CONTROLLER",t.G)}],execute:function(){
+System.register(["./index-legacy-c4b070fc.js"],(function(e,t){"use strict";var r;return{setters:[t=>{r=t.G,e("GESTURE_CONTROLLER",t.G)}],execute:function(){
 /*!
        * (C) Ionic http://ionicframework.com - MIT License
        */

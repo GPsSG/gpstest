@@ -2,12 +2,12 @@ import { IonAvatar, IonButtons, IonCard, IonCardContent, IonCardHeader, IonCheck
 import { useParams } from 'react-router';
 import { add, closeCircle, remove } from 'ionicons/icons';
 import { compareAsc, format } from 'date-fns'
-import './Home.css';
+import './Goal.css';
 
 import { useEffect, useState } from 'react';
 
 
-const Home: React.FC = () => {
+const Goal: React.FC = () => {
 
     const { name } = useParams<{ name: string; }>();
     const [parejas, setParejas] = useState<any>([]);
@@ -1049,4 +1049,4 @@ const Home: React.FC = () => {
     );
 };
 
-export default Home;
+export default Goal;
